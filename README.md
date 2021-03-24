@@ -1,6 +1,6 @@
 ﻿# Sky Project website
 
-Unfinished project for 3D visualizations start-up. 
+Unfinished website for 3D visualizations start-up. 
 Made for practice and learning purposes.
 Hosted on GH Pages
 
